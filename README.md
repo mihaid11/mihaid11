@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying at University Politechnica of Bucharest
 - 🌱 I’m currently learning `C`, `C++`, `Assembly x86`, `Python`
-- 📫 How to reach me: mihai.dumitrescu05@stud.acs.upb.ro
+- 📫 How to reach me: mihairazvand1@gmail.com
